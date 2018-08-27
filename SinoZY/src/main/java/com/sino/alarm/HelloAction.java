@@ -18,6 +18,8 @@ public class HelloAction {
 	public String main(){
 		System.out.println(hello);
 		
+		
+		
 		return hello;
 	}
 	
